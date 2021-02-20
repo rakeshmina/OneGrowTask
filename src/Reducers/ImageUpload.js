@@ -1,7 +1,5 @@
 // define the initial state 
 const iState = {
-    name:"Rakesh",
-    wishes:['earn', 'enjoy'],
     selectedFile: null
 }
 
